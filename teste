@@ -1,0 +1,37 @@
+[33mcommit 84353b936a16cfd7279f4bc117ffbf6b94173efc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6444204 a405a3a
+Author: unknown <adm@SSCLUADM-10.fiema.org.br>
+Date:   Fri Feb 2 14:04:12 2024 -0300
+
+    Merge branch 'main' of https://github.com/buulzin03/gitlearning
+
+[33mcommit 6444204a5766b4e7b8ca2d4d8fbe6c653e857c6f[m
+Author: unknown <adm@SSCLUADM-10.fiema.org.br>
+Date:   Fri Feb 2 14:03:40 2024 -0300
+
+    changes
+
+[33mcommit a405a3a7fdbbb38854f50515ca827447d2206507[m
+Merge: 5687406 7a15150
+Author: unknown <adm@SSCLUADM-10.fiema.org.br>
+Date:   Fri Feb 2 13:43:39 2024 -0300
+
+    Merge branch 'master'
+
+[33mcommit 7a1515075673fd7c27e773f5aef22587512ec08b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <adm@SSCLUADM-10.fiema.org.br>
+Date:   Fri Feb 2 11:28:15 2024 -0300
+
+    Add controller, domain, service.
+
+[33mcommit 5687406744562f47fff9a1c4ad2bbb6c03f2f07a[m[33m ([m[1;31morigin/database-config[m[33m)[m
+Author: buulzin03 <jet.power03@gmail.com>
+Date:   Thu Feb 1 15:15:23 2024 -0300
+
+    Connection on Database app.properties
+
+[33mcommit 647aa1fd7cb1420d2d3f0cfa061905142fde79c0[m
+Author: buulzin03 <jet.power03@gmail.com>
+Date:   Thu Feb 1 15:03:16 2024 -0300
+
+    initial commit of code structure
